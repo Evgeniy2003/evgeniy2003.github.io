@@ -9,4 +9,5 @@
 [Урок-14 часть 3](https://evgeniy2003.github.io/lesson-14-3/) - Первый экран  
 [Урок-15](https://evgeniy2003.github.io/lesson-15/) - Псевдоэлементы  
 [Урок-15 часть 2](https://evgeniy2003.github.io/lesson-14-4/) - Адаптив  
-[Урок-16](https://evgeniy2003.github.io/lesson-16/) - Карусэл
+[Урок-16](https://evgeniy2003.github.io/lesson-16/) - Карусэл  
+[Урок 16 часть 2](https://evgeniy2003.github.io/lesson-16-2/) - Адаптивная карусель на сайте
