@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Табы</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+	<div class="wrap">
+		<ul class="tabs">
+			<li class="tabs-item"><button class="tabs-controls tabs-controls-active tabs-controls-enter" data-path="one">Вход</button></li>
+			<li class="tabs-item"><button class="tabs-controls tabs-controls-registration" data-path="two">Регистрация</button></li>
+		</ul>
+	
+		<div class="panels">
+			<div class="tabs-panels-item tab-panels-active" data-target="one">
+				<form action="#">
+					<input class="panels-input" type="text" placeholder="Ваше имя">
+					<input class="panels-input" type="text" placeholder="Пароль">
+					<a class="form-link" href="#">Забыли пароль?</a>
+					<input class="form-checkbox" type="checkbox" id="checkbox">
+					<label class="form-label" for="checkbox">Напомнить мне</label>
+					<button class="form-btn">Войти</button>
+				</form>
+			</div>
+			<div class="tabs-panels-item" data-target="two">
+				<p class="text">
+					Упс, а тут ничего нет ;)
+				</p>
+			</div>
+		</div>
+	</div>
+
+	<script src="js/script.js"></script>
+</body>
+</html>
