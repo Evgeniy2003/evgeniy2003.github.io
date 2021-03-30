@@ -12,5 +12,4 @@
 [Урок-16](https://evgeniy2003.github.io/lesson-16/) - Карусэл  
 [Урок-16 часть 2](https://evgeniy2003.github.io/lesson-16-2/) - Адаптивная карусель на сайте  
 [Урок-17](https://evgeniy2003.github.io/lesson-17/) - Всплывающее окно  
-[Урок-17 часть 2](https://evgeniy2003.github.io/lesson-17-2/) - Практика по всплывающим окнам   
-[Урок 18 аккордеон](https://evgeniy2003.github.io/lesson 18/) - Аккордеон
+[Урок-17 часть 2](https://evgeniy2003.github.io/lesson-17-2/) - Практика по всплывающим окнам
