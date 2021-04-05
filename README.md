@@ -14,4 +14,5 @@
 [Урок-17](https://evgeniy2003.github.io/lesson-17/) - Всплывающее окно  
 [Урок-17 часть 2](https://evgeniy2003.github.io/lesson-17-2/) - Практика по всплывающим окнам  
 [Урок-18 аккордеон](https://evgeniy2003.github.io/lesson-18/) - Аккордеон  
-[Урок-18 табы](https://evgeniy2003.github.io/lesson-18-2/) - Табы
+[Урок-18 табы](https://evgeniy2003.github.io/lesson-18-2/) - Табы  
+[Урок-19 цены](https://evgeniy2003.github.io/lesson-19/) - Блок с ценами
