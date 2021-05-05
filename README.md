@@ -16,4 +16,5 @@
 [Урок-18 аккордеон](https://evgeniy2003.github.io/lesson-18/) - Аккордеон  
 [Урок-18 табы](https://evgeniy2003.github.io/lesson-18-2/) - Табы  
 [Урок-19 цены](https://evgeniy2003.github.io/lesson-19/) - Блок с ценами  
-[Урок-20 анимация](https://evgeniy2003.github.io/lesson-20/) - Анимация
+[Урок-20 анимация](https://evgeniy2003.github.io/lesson-20/) - Анимация  
+[Урок 21 слайдер в слайдере](https://evgeniy2003.github.io/lesson-21/) - Блок с отзывами
