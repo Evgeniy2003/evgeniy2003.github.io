@@ -18,4 +18,5 @@
 [Урок-19 цены](https://evgeniy2003.github.io/lesson-19/) - Блок с ценами  
 [Урок-20 анимация](https://evgeniy2003.github.io/lesson-20/) - Анимация  
 [Урок 21 слайдер в слайдере](https://evgeniy2003.github.io/lesson-21/) - Блок с отзывами  
-[Урок 22](https://evgeniy2003.github.io/lesson-22/) - Видеофон
+[Урок 22](https://evgeniy2003.github.io/lesson-22/) - Видеофон  
+[Урок 23](https://evgeniy2003.github.io/lesson-23/) - Блок с отзывами
