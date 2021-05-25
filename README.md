@@ -21,4 +21,5 @@
 [Урок 22](https://evgeniy2003.github.io/lesson-22/) - Видеофон  
 [Урок 23](https://evgeniy2003.github.io/lesson-23/) - Блок с отзывами  
 [Урок 24 параллакс эффект](https://evgeniy2003.github.io/lesson-24/) - Параллакс  
-[Урок 25](https://evgeniy2003.github.io/lesson-25/) -  Схема работы и все включено
+[Урок 25](https://evgeniy2003.github.io/lesson-25/) -  Схема работы и все включено  
+[Урок 26](https://evgeniy2003.github.io/lesson-26/) - Яндекс карта
