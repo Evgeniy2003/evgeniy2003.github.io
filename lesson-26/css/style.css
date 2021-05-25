@@ -1,0 +1,63 @@
+body {
+  background-color: #282828;
+}
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+.text-map {
+  position: relative;
+  min-width: 150px;
+  font-size: 16px;
+}
+.text-map::before {
+  content: url("../img/circle-full.svg");
+  position: absolute;
+  top: 15%;
+  left: -13.5%;
+  z-index: -1;
+}
+.wraper {
+  position: relative;
+  max-width: 940px;
+  margin: 0 auto;
+}
+.info {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 70px;
+  min-height: 430px;
+  z-index: 1;
+  text-align: center;
+  color: #ffffff;
+  background: #c60b0b;
+}
+.mail {
+  text-decoration: underline;
+}
+.footer {
+  position: absolute;
+  top: 430px;
+  left: 0;
+  padding: 20px 0 12px 0;
+  width: 100%;
+  min-height: 95px;
+  font-family: "OpenSans", sans-serif;
+  background-color: #fff;
+}
+.logo-text {
+  font-size: 16px;
+}
+.footer-info {
+  text-align: center;
+  font-size: 14px;
+  color: #666666;
+}
+.tel {
+  font-weight: bold;
+  font-size: 22px;
+}
+.footer-adress {
+  font-size: 14px;
+}
