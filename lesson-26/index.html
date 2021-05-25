@@ -55,6 +55,7 @@
         }, {
             searchControlProvider: 'yandex#search',
         });
+        // убираем скролл и делаем чтоб он работал при клике
         myMap.behaviors.disable('scrollZoom')
         myMap.events.add('click', function(){
         myMap.behaviors.enable('scrollZoom')
