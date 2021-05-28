@@ -23,4 +23,4 @@
 [Урок 24 параллакс эффект](https://evgeniy2003.github.io/lesson-24/) - Параллакс  
 [Урок 25](https://evgeniy2003.github.io/lesson-25/) -  Схема работы и все включено  
 [Урок 26](https://evgeniy2003.github.io/lesson-26/) - Яндекс карта  
-[Урок 27](https://evgeniy2003.github.io/lesson-26/) - Блок развеем сомнения
+[Урок 27](https://evgeniy2003.github.io/lesson-27/) - Блок развеем сомнения
